@@ -7,7 +7,7 @@ Package: virtualmin-core
 Version: 6.0.1
 Maintainer: Joe Cooper <joe@virtualmin.com>
 Depends: webmin, webmin-virtual-server, libcrypt-ssleay-perl, libjson-pp-perl, virtualmin-config
-Recommends: usermin, webmin-jailkit, webmin-php-pear, webmin-ruby-gems, webmin-virtualmin-awstats, webmin-virtualmin-git, webmin-virtualmin-htpasswd, webmin-virtualmin-init, webmin-virtualmin-registrar, webmin-virtualmin-slavedns, webmin-virtualmin-sqlite, liblog-log4perl-perl, perl-modules
+Recommends: usermin, webmin-jailkit, webmin-php-pear, webmin-ruby-gems, webmin-virtualmin-awstats, webmin-virtualmin-htpasswd, liblog-log4perl-perl, perl-modules
 Replaces: virtualmin-base
 Architecture: all
 Copyright: LICENSE
