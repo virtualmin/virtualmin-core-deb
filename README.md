@@ -1,2 +1,7 @@
-# virtualmin-core-deb
-Debian and Ubuntu metapackage that depends on the Virtualmin core packages
+## virtualmin-core-deb (Archived)
+
+This repository is **archived** and its contents have been moved to:
+
+[virtualmin-core-meta](https://github.com/virtualmin/virtualmin-core-meta)
+
+Please visit the new repository for updates and development.
